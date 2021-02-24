@@ -7,15 +7,14 @@ namespace PrimeNumber.Models
   {
     public bool NumberSifter(int number)
     {
-      if(number%2==0)
+      for (int index = 2; index < number; index++)
       {
-        return true;
+        if (number % index == 0)
+        {
+          return false;
+        }
       }
-      else
-      {
-        return false;
-      }
+      return true;
     }
   }
-
 }
