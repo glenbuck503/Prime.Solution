@@ -1,0 +1,15 @@
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/obj/Debug/net5.0/Prime.csprojAssemblyReference.cache
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/obj/Debug/net5.0/Prime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/obj/Debug/net5.0/Prime.AssemblyInfoInputs.cache
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/obj/Debug/net5.0/Prime.AssemblyInfo.cs
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/obj/Debug/net5.0/Prime.csproj.CoreCompileInputs.cache
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/bin/Debug/net5.0/Prime.deps.json
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/bin/Debug/net5.0/Prime.dll
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/bin/Debug/net5.0/ref/Prime.dll
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/bin/Debug/net5.0/Prime.pdb
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/obj/Debug/net5.0/Prime.dll
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/obj/Debug/net5.0/ref/Prime.dll
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/obj/Debug/net5.0/Prime.pdb
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/bin/Debug/net5.0/Prime.runtimeconfig.json
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/bin/Debug/net5.0/Prime.runtimeconfig.dev.json
+/Users/arthurbuck/Desktop/projects/Prime.Solution/Prime/obj/Debug/net5.0/Prime.genruntimeconfig.cache
